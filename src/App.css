@@ -1,0 +1,14 @@
+table,
+td,
+th,
+tr,
+button {
+  border: 1px solid black;
+}
+
+/* img {
+  max-width: 200px;
+  max-height: 200px;
+  color: rebeccapurple;
+  color: red;
+} */
